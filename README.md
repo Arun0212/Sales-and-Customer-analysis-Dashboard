@@ -30,9 +30,6 @@ The dashboards utilize structured datasets containing sales transactions, custom
 ## Contributions
 Feel free to enhance the dashboards by adding new KPIs, visualizations, or improving UI/UX. Submit a pull request with detailed changes.
 
-## License
-This project is available under the MIT License.
-
 ## Contact
 For any queries or suggestions, reach out via GitHub Issues or connect on LinkedIn.
 
